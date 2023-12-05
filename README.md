@@ -7,5 +7,7 @@ Inspired by Spotify Wrapped, this code will give you two 1080x1920px jpgs with y
 
 ## References and Sources
 Fonts from [www.dafontfree.io](https://www.dafontfree.io/youtube-logo-font/).
+
 Background images from [Canva](https://www.canva.com/).
+
 Generative AI for python assistance, [Poe](https://poe.com/).
